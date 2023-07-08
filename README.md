@@ -5,4 +5,4 @@
 demo of picow bluetooth with flutter android app
 
 
-![Model](https://github.com/sonnny/flutter_template2/blob/main/flutter_toycar.png)
+![Model](https://github.com/sonnny/picow_bluetooth_androidapp_toycar/blob/main/flutter_toycar.png)
